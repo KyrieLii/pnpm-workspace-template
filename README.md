@@ -2,8 +2,8 @@
 
 ## Stack
 
-- Node.js >= 18
-- pnpm >= 8
+- Node.js >= 20
+- pnpm >= 9
 - @biomejs/biome
 - @changesets/cli
 

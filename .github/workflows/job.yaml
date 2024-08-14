@@ -12,5 +12,5 @@ jobs:
       - name: install
         run: |
           node -v
-          npm i -g pnpm@8
+          npm i -g pnpm@9
           pnpm i
