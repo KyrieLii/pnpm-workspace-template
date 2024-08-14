@@ -9,6 +9,10 @@
 
 ## How to use
 
+### Using by github template
+[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+### Using by local template
 1. clone this repo.
 ```bash
 git clone git@github.com:KyrieLii/pnpm-workspace-template.git your-project-name
